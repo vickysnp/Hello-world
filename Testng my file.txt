@@ -1,0 +1,23 @@
+TestNG
+
+     It is formed as Test Next Generation. 
+     It is advanced version of J unit.
+     Test Next Generation--------> TDD [ Test Driven Development].
+
+Feautures:
+
+    1.Simple Annotations[STCM]
+    2.Ignore
+    3.Priority
+    4.Grouping
+    5.Dependency
+    6.Timeout
+    7.Exception and Parallel test
+    8.Parameterised test
+    9.Data provider
+   10.Cross Browser test
+   11.Report
+   12.Failed test
+   13.IRetry Analyzer----------> 1.Testing failed method
+                                 2.IRetry analyzer
+                                 3.IAnnotation Transformer.
